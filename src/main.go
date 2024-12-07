@@ -50,4 +50,6 @@ func main() {
 
 	fmt.Println("Area circulo : ", areaCirculo)
 
+	fmt.Printf("Hola")
+
 }
